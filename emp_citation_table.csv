@@ -1,59 +1,75 @@
-,cites,doi,emp_study_num,study_idx,title,year
-0,481,10.1186/gb-2011-12-5-r50,550,0,Moving pictures of the human microbiome,2011
-1,14,10.4056/sigs.1974654,632,1,Open resource metagenomics: a model for sharing metagenomic libraries,2011
-2,44,10.1038/ismej.2011.23,638,2,Protist diversity in a permanently ice-covered Antarctic lake during the polar night transition,2011
-3,2,10.1016/j.soilbio.2013.03.014*,659,3,Offspring of plants exposed to elevated or ambient CO 2 differ in their impacts on soil nitrification in a common garden experiment,2013
-4,8,10.7717/peerj.631,662,4,The role of macrobiota in structuring microbial communities along rocky shores,2014
-5,53,10.1038/ismej.2010.86,678,5,Bioturbating shrimp alter the structure and diversity of bacterial communities in coastal marine sediments,2010
-6,80,10.3389/fmicb.2011.00268,713,6,Metagenomic evidence for H2 oxidation and H2 production by serpentinite-hosted subsurface microbial communities,2011
-7,87,10.7554/eLife.01104,714,7,A microbial clock provides an accurate estimate of the postmortem interval in a mouse model system,2013
-8,1545,10.1073/pnas.1000080107,722,8,Global patterns of 16S rRNA diversity at a depth of millions of sequences per sample,2011
-9,9,10.3389/fmicb.2014.00490,723,9,Late winter under ice pelagic microbial communities in the high Arctic Ocean and the impact of short-term exposure to elevated CO2 levels,2014
-10,9,10.1016/j.watres.2014.05.008,755,10,Replicating the microbial community and water quality performance of full-scale slow sand filters in laboratory-scale filters,2014
-11,122,10.1073/pnas.0905369107,804,12,"Archaea and bacteria with surprising microdiversity show shifts in dominance over 1,000-year time scales in hydrothermal chimneys",2010
-12,35,10.1111/1574-6941.12231,805,13,Exploring links between pH and bacterial community composition in soils from the Craibstone Experimental Farm,2014
-13,34,10.1371/journal.pone.0097435,807,14,Human and environmental impacts on river sediment microbial communities,2014
-14,27,10.1890/ES12-00196.1,808,15,"NEON terrestrial field observations: designing continental‐scale, standardized sampling",2012
-15,12,10.1111/gbi.12082,809,16,"Prokaryote populations of extant microbialites along a depth gradient in Pavilion Lake, British Columbia, Canada",2014
-16,498,10.1073/pnas.0511033103*,810,17,Biogeographical distribution and diversity of microbes in methane hydrate-bearing deep marine sediments on the Pacific Ocean Margin,2006
-17,3,10.1007/s12088-015-0549-1*,829,18,"Microbial Diversity in Soil, Sand Dune and Rock Substrates of the Thar Monsoon Desert, India",2016
-18,4,10.1098/rsbl.2016.0352,865,22,"Stress response, gut microbial diversity and sexual signals correlate with social interactions",2016
-19,111,10.1038/ismej.2013.254,1197,51,Metagenomics reveals sediment microbial community response to Deepwater Horizon oil spill,2014
-20,0,10.1007/s00248-017-1028-5,1198,52,Metagenomic Analysis of Subtidal Sediments from Polar and Subpolar Coastal Environments Highlights the Relevance of Anaerobic Hydrocarbon Degradation  …,2017
-21,34,10.5194/bg-10-555-2013,1222,53,Ocean acidification shows negligible impacts on high-latitude bacterial community structure in coastal pelagic mesocosms,2013
-22,34,10.5194/bg-10-555-2013,1235,54,Ocean acidification shows negligible impacts on high-latitude bacterial community structure in coastal pelagic mesocosms,2013
-23,377,10.1038/ismej.2011.107,1240,55,Defining seasonal marine microbial community dynamics,2012
-24,36,10.1038/ismej.2012.118,1242,56,"A decade of seasonal dynamics and co-occurrences within freshwater bacterioplankton communities from eutrophic Lake Mendota, WI, USA",2013
-25,3,10.1016/j.gecco.2016.06.004,1453,59,Using the gut microbiota as a novel tool for examining colobine primate GI health,2016
-26,52,10.3945/ajcn.114.088120,1481,60,Whole-grain wheat consumption reduces inflammation in a randomized controlled trial on overweight and obese subjects with unhealthy dietary and lifestyle  …,2015
-27,10,10.1111/1758-2229.12301,1578,63,Changes in microbial communities along redox gradients in polygonized Arctic wet tundra soils,2015
-28,150,10.1111/j.1462-2920.2012.02799.x,1627,68,Geographic distance and pH drive bacterial distribution in alkaline lake sediments across Tibetan Plateau,2012
-29,25,10.1111/j.1474-919X.2012.01256.x*,1632,69,Avian life history traits influence eggshell bacterial loads: a comparative analysis,2012
-30,19,10.1371/journal.pone.0090785*,1665,71,Humpback whale populations share a core skin bacterial community: towards a health index for marine mammals?,2014
-31,9,10.1038/ismej.2015.152,1674,73,Urban stress is associated with variation in microbial species composition—but not richness—in Manhattan,2016
-32,4,10.3390/min3030318,1692,74,Potentiostatically poised electrodes mimic iron oxide and interact with soil microbial communities to alter the biogeochemistry of Arctic peat soils,2013
-33,3,10.1016/j.gecco.2016.06.004,1696,76,Using the gut microbiota as a novel tool for examining colobine primate GI health,2016
-34,32,10.1016/j.mimet.2015.03.021,1696,76,Sample storage conditions significantly influence faecal microbiome profiles,2015
-35,174,10.1016/j.soilbio.2012.07.013,1702,77,Soil pH drives the spatial distribution of bacterial communities along elevation on Changbai Mountain,2013
-36,14,10.1111/1365-2664.12416,1711,78,Agricultural intensification and the functional capacity of soil microbes on smallholder African farms,2015
-37,16,10.1007/s00248-014-0468-4,1714,80,Responses of soil fungi to logging and oil palm agriculture in Southeast Asian tropical forests,2015
-38,62,10.1007/s00248-011-9973-x*,1716,82,Fungal community composition in neotropical rain forests: the influence of tree diversity and precipitation,2012
-39,14,10.1111/1365-2664.12416,1717,83,Agricultural intensification and the functional capacity of soil microbes on smallholder African farms,2015
-40,44,10.1016/j.agee.2014.04.006,1721,84,Comparative analysis of the microbial communities in agricultural soil amended with enhanced biochars or traditional fertilisers,2014
-41,3,10.1128/mSystems.00046-16,1747,87,The Oral and Skin Microbiomes of Captive Komodo Dragons Are Significantly Shared with Their Habitat,2016
-42,142,10.1016/B978-0-12-407863-5.00019-8,1795,91,Advancing our understanding of the human microbiome using QIIME,2013
-43,88,10.1038/ismej.2012.9,1883,93,Microbial diversity in arctic freshwaters is structured by inoculation of microbes from soils,2012
-44,3,10.1016/j.gecco.2016.06.004,2182,95,Using the gut microbiota as a novel tool for examining colobine primate GI health,2016
-45,32,10.1016/j.mimet.2015.03.021,2182,95,Sample storage conditions significantly influence faecal microbiome profiles,2015
-46,7,10.1016/j.mimet.2016.09.017,2182,95,Effects of field conditions on fecal microbiota,2016
-47,208,10.1126/science.1254529,2192,96,Longitudinal analysis of microbial interaction between humans and the indoor environment,2014
-48,12,10.1111/1462-2920.12972,2229,97,"Continental‐scale variation in seaweed host‐associated bacterial communities is a function of host condition, not geography",2015
-49,73,10.1128/mBio.02527-14,2382,101,The soil microbiome influences grapevine-associated microbiota,2015
-50,0,10.1126/scitranslmed.aah6500,10172,105,Bacterial colonization and succession in a newly opened hospital,2017
-51,2,10.1186/s10152-016-0464-9*,10247,109,Spatiotemporal variation of the bacterioplankton community in the German Bight: from estuarine to offshore regions,2016
-52,0,10.1101/090225,10248,110,Seasonal succession influences the functioning of a host-associated microbial food web,2016
-53,41,10.1038/ncomms11870,10346,116,"Diversity, structure and convergent evolution of the global sponge microbiome",2016
-54,26,10.3389/fpls.2015.00113,10363,117,Selenium hyperaccumulators harbor a diverse endophytic bacterial community characterized by high selenium resistance and plant growth promoting  …,2015
-55,4,10.1098/rsbl.2016.0352,10522,118,"Stress response, gut microbial diversity and sexual signals correlate with social interactions",2016
-56,41,10.1038/ncomms11870,10533,119,"Diversity, structure and convergent evolution of the global sponge microbiome",2016
-57,2,10.3389/fmicb.2017.00175*,10809,122,Diversity and distribution of freshwater aerobic anoxygenic phototrophic bacteria across a wide latitudinal gradient,2017
+study_idx,cites,doi,emp_study_num,title,year
+0,481,10.1186/gb-2011-12-5-r50,550,Moving pictures of the human microbiome,2011
+1,14,10.4056/sigs.1974654,632,Open resource metagenomics: a model for sharing metagenomic libraries,2011
+2,44,10.1038/ismej.2011.23,638,Protist diversity in a permanently ice-covered Antarctic lake during the polar night transition,2011
+3,2,10.1016/j.soilbio.2013.03.014*,659,Offspring of plants exposed to elevated or ambient CO 2 differ in their impacts on soil nitrification in a common garden experiment,2013
+4,8,10.7717/peerj.631,662,The role of macrobiota in structuring microbial communities along rocky shores,2014
+5,53,10.1038/ismej.2010.86,678,Bioturbating shrimp alter the structure and diversity of bacterial communities in coastal marine sediments,2010
+6,80,10.3389/fmicb.2011.00268,713,Metagenomic evidence for H2 oxidation and H2 production by serpentinite-hosted subsurface microbial communities,2011
+7,87,10.7554/eLife.01104,714,A microbial clock provides an accurate estimate of the postmortem interval in a mouse model system,2013
+8,1545,10.1073/pnas.1000080107,722,Global patterns of 16S rRNA diversity at a depth of millions of sequences per sample,2011
+9,9,10.3389/fmicb.2014.00490,723,Late winter under ice pelagic microbial communities in the high Arctic Ocean and the impact of short-term exposure to elevated CO2 levels,2014
+10,9,10.1016/j.watres.2014.05.008,755,Replicating the microbial community and water quality performance of full-scale slow sand filters in laboratory-scale filters,2014
+12,122,10.1073/pnas.0905369107,804,"Archaea and bacteria with surprising microdiversity show shifts in dominance over 1,000-year time scales in hydrothermal chimneys",2010
+13,35,10.1111/1574-6941.12231,805,Exploring links between pH and bacterial community composition in soils from the Craibstone Experimental Farm,2014
+14,34,10.1371/journal.pone.0097435,807,Human and environmental impacts on river sediment microbial communities,2014
+15,27,10.1890/ES12-00196.1,808,"NEON terrestrial field observations: designing continental‐scale, standardized sampling",2012
+16,12,10.1111/gbi.12082,809,"Prokaryote populations of extant microbialites along a depth gradient in Pavilion Lake, British Columbia, Canada",2014
+17,498,10.1073/pnas.0511033103*,810,Biogeographical distribution and diversity of microbes in methane hydrate-bearing deep marine sediments on the Pacific Ocean Margin,2006
+18,3,10.1007/s12088-015-0549-1*,829,"Microbial Diversity in Soil, Sand Dune and Rock Substrates of the Thar Monsoon Desert, India",2016
+22,4,10.1098/rsbl.2016.0352,865,"Stress response, gut microbial diversity and sexual signals correlate with social interactions",2016
+24,35,10.1016/j.watres.2012.12.027,894,Molecular-based investigation of Cryptosporidium and Giardia from animals in water catchments in southeastern Australia,2013
+24,2,10.1186/s13071-016-1607-1,894,Cryptosporidium and Giardia taxa in faecal samples from animals in catchments supplying the city of Melbourne with drinking water (2011 to 2015),2016
+26,276,10.1111/j.1462-2920.2007.01266.x*,905,Anaerobic ammonium‐oxidizing bacteria in marine environments: widespread occurrence but low diversity,2007
+27,22,10.7717/peerj.107,910,Biological oxygen demand optode analysis of coral reef-associated microbial communities exposed to algal exudates,2013
+29,12,10.1111/1462-2920.12972,933,"Continental‐scale variation in seaweed host‐associated bacterial communities is a function of host condition, not geography",2015
+32,37,10.1371/journal.pone.0085611,958,Saliva from obese individuals suppresses the release of aroma compounds from wine,2014
+34,9,10.1111/1462-2920.13231,990,Spatial scale drives patterns in soil bacterial diversity,2016
+35,17,10.1371/journal.pone.0099641,1001,Understanding cultivar-specificity and soil determinants of the cannabis microbiome,2014
+36,73,10.1128/mBio.02527-14,1024,The soil microbiome influences grapevine-associated microbiota,2015
+37,50,10.1038/ismej.2014.36,1030,Impact of fire on active layer and permafrost microbial communities and metagenomes in an upland Alaskan boreal forest,2014
+38,39,10.1007/s00248-010-9675-9*,1031,"Soil microbial communities associated with Douglas-fir and red alder stands at high-and low-productivity forest sites in Oregon, USA",2010
+40,40,10.1038/ismej.2013.219,1034,Distinct microbial communities associated with buried soils in the Siberian tundra,2014
+41,2,10.3389/fmicb.2014.00515,1035,The ecological dichotomy of ammonia-oxidizing archaea and bacteria in the hyper-arid soils of the Antarctic Dry Valleys,2014
+42,64,10.1038/ismej.2011.163*,1036,Microbes in thawing permafrost: the unknown variable in the climate change equation,2012
+44,28,10.1111/j.1758-2229.2011.00290.x*,1038,Bacterial and archaeal amoA gene distribution covaries with soil nitrification properties across a range of land uses,2011
+48,66,10.1111/mec.12501,1056,Convergence of gut microbiomes in myrmecophagous mammals,2014
+51,111,10.1038/ismej.2013.254,1197,Metagenomics reveals sediment microbial community response to Deepwater Horizon oil spill,2014
+52,0,10.1007/s00248-017-1028-5,1198,Metagenomic Analysis of Subtidal Sediments from Polar and Subpolar Coastal Environments Highlights the Relevance of Anaerobic Hydrocarbon Degradation  …,2017
+53,34,10.5194/bg-10-555-2013,1222,Ocean acidification shows negligible impacts on high-latitude bacterial community structure in coastal pelagic mesocosms,2013
+54,34,10.5194/bg-10-555-2013,1235,Ocean acidification shows negligible impacts on high-latitude bacterial community structure in coastal pelagic mesocosms,2013
+55,377,10.1038/ismej.2011.107,1240,Defining seasonal marine microbial community dynamics,2012
+56,36,10.1038/ismej.2012.118,1242,"A decade of seasonal dynamics and co-occurrences within freshwater bacterioplankton communities from eutrophic Lake Mendota, WI, USA",2013
+59,3,10.1016/j.gecco.2016.06.004,1453,Using the gut microbiota as a novel tool for examining colobine primate GI health,2016
+60,52,10.3945/ajcn.114.088120,1481,Whole-grain wheat consumption reduces inflammation in a randomized controlled trial on overweight and obese subjects with unhealthy dietary and lifestyle  …,2015
+63,10,10.1111/1758-2229.12301,1578,Changes in microbial communities along redox gradients in polygonized Arctic wet tundra soils,2015
+68,150,10.1111/j.1462-2920.2012.02799.x,1627,Geographic distance and pH drive bacterial distribution in alkaline lake sediments across Tibetan Plateau,2012
+69,25,10.1111/j.1474-919X.2012.01256.x*,1632,Avian life history traits influence eggshell bacterial loads: a comparative analysis,2012
+71,19,10.1371/journal.pone.0090785*,1665,Humpback whale populations share a core skin bacterial community: towards a health index for marine mammals?,2014
+73,9,10.1038/ismej.2015.152,1674,Urban stress is associated with variation in microbial species composition—but not richness—in Manhattan,2016
+74,4,10.3390/min3030318,1692,Potentiostatically poised electrodes mimic iron oxide and interact with soil microbial communities to alter the biogeochemistry of Arctic peat soils,2013
+76,32,10.1016/j.mimet.2015.03.021,1696,Sample storage conditions significantly influence faecal microbiome profiles,2015
+76,3,10.1016/j.gecco.2016.06.004,1696,Using the gut microbiota as a novel tool for examining colobine primate GI health,2016
+77,174,10.1016/j.soilbio.2012.07.013,1702,Soil pH drives the spatial distribution of bacterial communities along elevation on Changbai Mountain,2013
+78,14,10.1111/1365-2664.12416,1711,Agricultural intensification and the functional capacity of soil microbes on smallholder African farms,2015
+80,16,10.1007/s00248-014-0468-4,1714,Responses of soil fungi to logging and oil palm agriculture in Southeast Asian tropical forests,2015
+82,62,10.1007/s00248-011-9973-x*,1716,Fungal community composition in neotropical rain forests: the influence of tree diversity and precipitation,2012
+83,14,10.1111/1365-2664.12416,1717,Agricultural intensification and the functional capacity of soil microbes on smallholder African farms,2015
+84,44,10.1016/j.agee.2014.04.006,1721,Comparative analysis of the microbial communities in agricultural soil amended with enhanced biochars or traditional fertilisers,2014
+87,3,10.1128/mSystems.00046-16,1747,The Oral and Skin Microbiomes of Captive Komodo Dragons Are Significantly Shared with Their Habitat,2016
+91,142,10.1016/B978-0-12-407863-5.00019-8,1795,Advancing our understanding of the human microbiome using QIIME,2013
+93,88,10.1038/ismej.2012.9,1883,Microbial diversity in arctic freshwaters is structured by inoculation of microbes from soils,2012
+95,32,10.1016/j.mimet.2015.03.021,2182,Sample storage conditions significantly influence faecal microbiome profiles,2015
+95,7,10.1016/j.mimet.2016.09.017,2182,Effects of field conditions on fecal microbiota,2016
+95,3,10.1016/j.gecco.2016.06.004,2182,Using the gut microbiota as a novel tool for examining colobine primate GI health,2016
+96,208,10.1126/science.1254529,2192,Longitudinal analysis of microbial interaction between humans and the indoor environment,2014
+97,12,10.1111/1462-2920.12972,2229,"Continental‐scale variation in seaweed host‐associated bacterial communities is a function of host condition, not geography",2015
+101,73,10.1128/mBio.02527-14,2382,The soil microbiome influences grapevine-associated microbiota,2015
+105,0,10.1126/scitranslmed.aah6500,10172,Bacterial colonization and succession in a newly opened hospital,2017
+109,2,10.1186/s10152-016-0464-9*,10247,Spatiotemporal variation of the bacterioplankton community in the German Bight: from estuarine to offshore regions,2016
+110,0,10.1101/090225,10248,Seasonal succession influences the functioning of a host-associated microbial food web,2016
+116,41,10.1038/ncomms11870,10346,"Diversity, structure and convergent evolution of the global sponge microbiome",2016
+117,26,10.3389/fpls.2015.00113,10363,Selenium hyperaccumulators harbor a diverse endophytic bacterial community characterized by high selenium resistance and plant growth promoting  …,2015
+118,4,10.1098/rsbl.2016.0352,10522,"Stress response, gut microbial diversity and sexual signals correlate with social interactions",2016
+119,41,10.1038/ncomms11870,10533,"Diversity, structure and convergent evolution of the global sponge microbiome",2016
+122,2,10.3389/fmicb.2017.00175*,10809,Diversity and distribution of freshwater aerobic anoxygenic phototrophic bacteria across a wide latitudinal gradient,2017
